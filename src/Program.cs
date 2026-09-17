@@ -1,1 +1,0 @@
-﻿await AsyncExample.Run();
